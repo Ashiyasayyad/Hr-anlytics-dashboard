@@ -31,8 +31,8 @@ This Power BI dashboard project focuses on analyzing HR data to uncover insights
 ## 📈 Dashboard Features
 
 - KPIs: Total Employees, Attrition Rate, Avg. Salary, Job Satisfaction
-- Visuals: Bar Charts, Pie Charts, Donut Charts, Clustered Columns
-- Filters: Department, Gender, Education, Age Group, Performance Rating
+- Visuals: Bar Charts, Pie Charts,Clustered Columns
+- Filters: Gender
 - Slicers for dynamic filtering of data
 
 ---
