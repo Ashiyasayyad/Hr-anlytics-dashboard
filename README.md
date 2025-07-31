@@ -18,10 +18,6 @@ This Power BI dashboard project focuses on analyzing HR data to uncover insights
   - `Age`
   - `Attrition`
   - `Salary`
-  - `Job Satisfaction`
-  - `Performance Rating`
-
----
 
 ## 🎯 Key Objectives
 
